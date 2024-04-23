@@ -1,0 +1,15 @@
+h1 {
+    background-color: rgb(255, 89, 0);
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container {
+    display: flex;
+    background-color: rgb(255, 89, 0);
+}
+ img {
+    max-width: 60px;
+ }
+
+
