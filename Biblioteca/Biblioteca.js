@@ -9,7 +9,7 @@ const name3 = prompt(
 )
 const resultado = parseInt(name2) - parseInt(name3)
 const element = document.getElementById("mensagem")
-if (resultado > name3) { element.innerHTML = "Você leu menos da metade de" + name1 + "Leia um pouco mais e obtenha seu prêmio" }
+if (resultado > name3) { element.innerHTML = "Você leu menos da metade de-" + name1 + "-Leia um pouco mais e obtenha seu prêmio" }
 else {open("pag2.html") }
 
 
