@@ -6,3 +6,7 @@ h2 {
     color: rgb(109, 55, 55);
     font-size: 36px;
 }
+a {
+    font-size: 20px;
+    text-align: center;
+}
